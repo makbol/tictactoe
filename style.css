@@ -1,0 +1,10 @@
+.row {
+    display: flex;
+}
+
+.cell {
+    border: 1px solid #ccc;
+    margin: 5px;
+    height: 50px;
+    width: 50px;
+}
